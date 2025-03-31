@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Abaan. 16 Years old. 
-- 👀 I like to create things of value, Things that will make me be remembered.
-- 🌱 I’m currently learning C, JS, Python.
 - 📫 Mail: Sayeed.abaan@gmail.com 
 - 😄 Pronouns: He/Him
 
